@@ -1,3 +1,2 @@
-on your console run:
-run pip install -r requirements.txt
-then you are done!
+Go to the data folder and run installer.bat
+/bThen you are done/b
