@@ -1,1 +1,1 @@
-Go to the data folder and run "installer.bat" to install all the dependecies (if they are already downloaded it won't reinstall them). To run the program just run the "run.bat" file. Thank you for your time  
+Go to the data folder and run "installer.bat" to install all the dependecies (if they are already downloaded it won't reinstall them). To execute the program just run the "run.bat" file. Thank you for your time  
